@@ -18,5 +18,4 @@ You have 3 lives.
 There is 2 paddles. One is controlled by moving the mouse. The other controlled by wasd/
 When half of the bricks are destroyed both player's paddle are halved.
 
-![alt text](http://imgur.com/yHtNTjf "Superbreakout")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://i.imgur.com/yHtNTjf.png "Superbreakout")
