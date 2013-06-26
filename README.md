@@ -6,6 +6,7 @@ A superbreakout game made using pygame
 Required
 ---------
 [Python v2.x](http://python.org/download/)
+
 [Pygame 1.9.1](http://www.pygame.org/download.shtml)
 
 Details
@@ -18,3 +19,4 @@ There is 2 paddles. One is controlled by moving the mouse. The other controlled 
 When half of the bricks are destroyed both player's paddle are halved.
 
 ![alt text](http://imgur.com/yHtNTjf "Superbreakout")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
